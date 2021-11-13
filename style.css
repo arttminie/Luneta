@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #483D8B;
+}
+.container{
+    height: 5vh;
+    width: 6vw;
+    background-color: #828282;
+    position: relative;
+    transform: rotate(20deg);
+    top: 42vh;
+    left: 60vw;
+}
+.box1{
+    height: 8vh;
+    width: 15vw;
+    background-color: #828282;
+    transform: rotate(19deg);
+    position: relative;
+    top: 28vh;
+    left: 46vw;
+}
+.box2{
+    background-color: #828282;
+    height: 10vh;
+    width: 15vw;
+    position: relative;
+    transform: rotate(19deg);
+    top: 12vh;
+    left: 36vw;
+}
+.box3{
+    background-color: #363636;
+    height: 3vh;
+    width: 6vw;
+    transform: rotate(110deg);
+    position: relative;
+    left: 33vw;
+}
+.suporte{
+    background-color: #000;
+    height: 5vh;
+    width: 2vw;
+    position: relative;
+    top: 17vh;
+    left: 56vw;
+    border-radius: 30%;
+    transform: rotate(15deg);
+}
+.suporte2{
+    background-color: #000;
+    height: 6vh;
+    width: 3vw;
+    border-radius: 55%;
+    position: relative;
+    top: 16vh;
+    left: 55vw;
+}
+.perna{
+    background-color: #363636;
+    height: 2vh;
+    width: 12vw;
+    position: relative;
+    top: 22vh;
+    left: 45vw;
+    transform: rotate(136deg);
+}
+.perna2{
+    background-color: #363636;
+    height: 2vh;
+    width: 12vw;
+    position: relative;
+    top: 25vh;
+    left: 51vw;
+    transform: rotate(87deg);  
+}
+.perna3{
+    background-color: #363636;
+    height: 2vh;
+    width: 12vw;
+    position: relative;
+    top: 18vh;
+    left: 56vw;
+    transform: rotate(44deg);  
+}
